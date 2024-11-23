@@ -1,15 +1,17 @@
+<h3 align="center">
 <div align="center">
-  <a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Eunsan+Park!" alt="Typing SVG" />
-	</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1DE0F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Eunsan+Park!)](https://git.io/typing-svg)
 </div>
+</h3>
+
 
 <br>
 <h3 align="center">🖥️ Tech Stack </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+	<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -28,12 +30,6 @@
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="https://www.instagram.com/eun.__.san">
-    <img src = "https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+    <img src = "https://img.shields.io/badge/INSTAGRAM-E4405F?logo=Instagram&logoColor=white">
   </a>
-</div>
-
-<br>
-<h3 align="center">Language</h3>
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverSani&layout=compact)
 </div>
