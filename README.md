@@ -27,7 +27,7 @@
   <a href="https://velog.io/@silv_san_i">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="https://www.instagram.com/eun.__.san">
+  <a href="https://www.instagram.com/_san2i">
     <img src = "https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
 </div>
